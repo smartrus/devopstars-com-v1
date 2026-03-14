@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+  <rect width="40" height="40" rx="9" fill="#3b82f6"/>
+  <!-- Five-pointed star, outer r=13, inner r=5.5, centre (20,20) -->
+  <polygon
+    points="20,7 23.2,15.5 32.4,16 25.2,21.7 27.6,30.5 20,25.5 12.4,30.5 14.8,21.7 7.6,16 16.8,15.5"
+    fill="none"
+    stroke="white"
+    stroke-width="1.6"
+    stroke-linejoin="round"/>
+</svg>
